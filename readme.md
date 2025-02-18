@@ -26,7 +26,7 @@ Passionate Network and Systems Engineer with a strong focus on automation, syste
 
 ## 💼 Professional Experience
 
-### Co-Founder & Lead Developer at YallaWeb (2024 - Present)
+### Co-Founder & Lead Developer at YallaWeb (September 2024 - February 2025)
 - Spearheading B2B SaaS solutions development
 - Implementing AI-powered POS systems and event management platforms
 - Integrating advanced chatbots and AI-driven analytics
