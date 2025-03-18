@@ -26,39 +26,32 @@ Passionate Network and Systems Engineer with a strong focus on automation, syste
 
 ## 💼 Professional Experience
 
-### Co-Founder & Lead Developer at YallaWeb (September 2024 - February 2025)
-- Spearheading B2B SaaS solutions development
-- Implementing AI-powered POS systems and event management platforms
-- Integrating advanced chatbots and AI-driven analytics
+### Projets personnels (2024 - Présent)
+- Développement d'un système POS professionnel, intégrant la puissance de l'IA pour les analyses avancées, permettant une gestion optimisée des ventes, des stocks et des opérations quotidiennes.
+- Création d'une application de gestion d'événements intégrée à des systèmes d'analyse avancée basés sur l'IA, offrant des insights détaillés sur la participation, la satisfaction des participants et les performances des événements.
+- Implémentation de chatbots avancés et d'appels de fonctions (function calling), permettant une interaction utilisateur simplifiée et intuitive, tout en réduisant les besoins d'assistance manuelle.
+- Développement de plateformes web et applications Android, intégrant des systèmes de navigation assistée, des interactions utilisateur fluides et des outils de gestion optimisés.
+- Intégration de solutions d'IA pour fournir des recommandations automatisées, des analyses prédictives et des rapports personnalisés en fonction des besoins spécifiques des utilisateurs.
 
-### DevOps Intern at Med Bright Team (2023 - 2024)
-- Implemented scalability strategies for Parse backend
-- Enhanced system resilience and performance
-- Administered company systems while working on backend scalability enhancement
-- Successfully deployed projects improving system resilience and performance
+### Med Bright Team (2023 - 2024)
+**Stage PFE en DevOps**
+- Administration des systèmes tout en travaillant sur la "Proposition et Implémentation d'une Stratégie pour le Renforcement de la Scalabilité d'un Backend Parse avec Monitoring".
+- Déploiement réussi du projet dans un environnement de production, améliorant la résilience et les performances du système, notamment dans la gestion des pics de charge.
+- Optimisation de l'infrastructure pour assurer une meilleure stabilité des services, augmentant ainsi la satisfaction des utilisateurs finaux.
+- Intégration d’outils de monitoring avancés pour un suivi en temps réel des performances et une meilleure réactivité aux incidents.
 
-### Freelance Web Developer (2021 - 2022)
-- Developed responsive web applications using Angular and Spring Boot
-- Designed and implemented scalable RESTful APIs
-- Enhanced application performance and user experience
-- Conducted testing and debugging for reliable deployment
+**Stage d'été en DevOps (Été 2023)**
+- Apprentissage des principes fondamentaux du DevOps.
+- Acquisition des bases en administration système.
+- Application des concepts théoriques sur des projets réels.
+- Participation à des projets sous la supervision de professionnels et contribution à l'amélioration de l'infrastructure et de l'automatisation au sein de l'entreprise.
 
-## 🏆 Projects
-
-### 🛒 Intelligent POS System
-A cutting-edge POS system using React Native with advanced AI function calling for data analysis and intelligent insights for business optimization.
-
-### 🌐 YallaWeb Homepage
-Dynamic and responsive homepage created with Next.js, featuring an AI-powered chatbot for enhanced user interaction and support.
-
-### 📅 AI-Based Event Manager
-Smart event management tool leveraging AI analytics for optimized planning and performance tracking, providing actionable insights for better event organization.
-
-### 👁️ AI-Powered Accessibility Tool for the Visually Impaired
-Python-based project enabling easy technology use for the visually impaired through voice commands and AI function calling, automating daily tasks and enhancing accessibility.
-
-### 🔐 Kernel Driver for Protected Memory Access
-Developed a C++ kernel driver for accessing protected memory, aimed at studying anti-cheat systems in video games while maintaining ethical considerations and system stability.
+### FreeLance (2021 - 2022)
+**Développeur Web Freelance**
+- Développement d'applications innovantes et créatives en utilisant React.js pour le web et React Native pour le mobile, avec Parse Server comme backend.
+- Conception et implémentation d'API RESTful évolutives, assurant un échange de données fluide entre les applications et le backend.
+- Optimisation des performances et amélioration de l'expérience utilisateur en appliquant les meilleures pratiques en matière de structure de code, gestion des erreurs et mise en cache des données.
+- Intégration de solutions d'authentification sécurisée et de gestion des utilisateurs avec Parse Server, garantissant un accès fiable aux services.
 
 ## 🎓 Education
 
@@ -67,8 +60,6 @@ Developed a C++ kernel driver for accessing protected memory, aimed at studying 
 
 - **Bachelor's in Network and Systems Engineering** (2021 - 2024)
   Faculty of Sciences, Gabès, Tunisia
-
-
 
 ## 🌱 Current Focus
 
@@ -110,4 +101,3 @@ Feel free to reach out to me through any of the following channels. I'd love to 
 </div>
 
 ⭐️ From [linko-iheb](https://github.com/linko-iheb)
-
