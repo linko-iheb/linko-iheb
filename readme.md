@@ -113,7 +113,7 @@ IT professional with over 4 years of experience in system administration, LAN/VL
 
 <div align="center">
 
-*Last updated: 2024*
+
 
 ⭐️ From [linko-iheb](https://github.com/linko-iheb)
 
